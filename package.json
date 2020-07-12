@@ -12,6 +12,10 @@
     "> 1%",
     "not dead"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ArtemAsadov/AdvancedCourseInJavaScript/.git"
+  },
   "devDependencies": {
     "@babel/core": "^7.7.4",
     "@babel/preset-env": "^7.7.4",
